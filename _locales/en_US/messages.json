@@ -1,11 +1,11 @@
 {
   "addonName": {
-    "message": "Google Search Fixer"
+    "message": "Mascara pà Allindì"
   },
   "addonDescription": {
-    "message": "Override the user-agent string presented to Google Search pages to receive the search experience shown to Chrome."
+    "message": "Una mascara pà fà crede chì simu un navigatore chrome, pà fà u cast. Fattu in furia."
   },
   "addonAuthorsList": {
-    "message": "Thomas Wisniewski <twisniewski@mozilla.com>"
+    "message": "Thomas Wisniewski <twisniewski@mozilla.com>, Orsucciu"
   }
 }
